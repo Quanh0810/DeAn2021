@@ -1,0 +1,40 @@
+.container{
+    padding: auto;
+    width: 1170px;
+}
+.content{
+    margin-left: 100px;
+    margin-right: 100px;
+    position: relative;
+    
+}
+/* img{
+    display: block;
+    
+    margin-right: auto;
+    max-width: 100%;
+    vertical-align: middle;
+} */
+h3{
+    font-weight: 800;
+    color: #1f4163
+    
+}
+.standfirst{
+    font-weight: bold;
+    line-height: 1.5;
+}
+p{
+    text-align: justify;
+}
+.img-tip{
+    display: flex;
+    max-width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin : 0px auto
+} 
+
+
+
+
